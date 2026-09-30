@@ -1,0 +1,46 @@
+{
+  "source": "Inside Airbnb",
+  "source_page": "https://insideairbnb.com/get-the-data/",
+  "license": "Creative Commons Attribution 4.0 International",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "files": [
+    {
+      "date": "2025-09-12",
+      "file": "listings-2025-09-12.csv.gz",
+      "sha256": "6d886ebee5f16c3ca96494f5bd36da0bfec8a8d628d227a96abe960e7a48d2d4",
+      "scrape_first": "2025-09-12",
+      "scrape_last": "2025-09-12",
+      "url": "https://data.insideairbnb.com/australia/nsw/sydney/2025-09-12/data/listings.csv.gz"
+    },
+    {
+      "date": "2025-12-12",
+      "file": "listings-2025-12-12.csv.gz",
+      "sha256": "bde52b1fc6679cdf2ef42e230a1009abeae9995754acd2a3ccae53308835790d",
+      "scrape_first": "2025-12-12",
+      "scrape_last": "2025-12-13",
+      "url": "https://data.insideairbnb.com/australia/nsw/sydney/2025-12-12/data/listings.csv.gz"
+    },
+    {
+      "date": "2026-03-21",
+      "file": "listings-2026-03-21.csv.gz",
+      "sha256": "5697404fb8d640a1532f184dab5152bec24b62f45721934b557a3a1c948c8004",
+      "scrape_first": "2026-03-21",
+      "scrape_last": "2026-03-21",
+      "url": "https://data.insideairbnb.com/australia/nsw/sydney/2026-03-21/data/listings.csv.gz"
+    },
+    {
+      "date": "2026-06-16",
+      "file": "listings.csv.gz",
+      "sha256": "56c7b83723a195d6e4d0bf6d6ecd6da9b43b00cda9c9f6c08ffe11b7ee79597d",
+      "scrape_first": "2026-06-17",
+      "scrape_last": "2026-06-29",
+      "url": "https://data.insideairbnb.com/australia/nsw/sydney/2026-06-16/data/listings.csv.gz"
+    },
+    {
+      "date": "2026-06-16",
+      "file": "reviews.csv.gz",
+      "url": "https://data.insideairbnb.com/australia/nsw/sydney/2026-06-16/data/reviews.csv.gz",
+      "sha256": "cfd7ee701498d12186ba8425cf2be2dd34e92b9ae05cecfb32c0d340654d7798"
+    }
+  ]
+}

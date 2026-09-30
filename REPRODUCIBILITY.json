@@ -1,0 +1,38 @@
+{
+  "prepared": "2026-09-30",
+  "python": "3.14.5",
+  "scripts_match_report_appendix": true,
+  "scripts": {
+    "analysis.py": "5e7467fe6b38c361dfc0f09d2afe40ed4cdf577c2e8e0ca9d50d99735b00a853",
+    "text_analysis.py": "842f9f1e9bd6013e12ff507f8c2205ac2cc70439e60790e53ffb8d959661bc8b",
+    "historical_analysis.py": "2ccdf9c0ae6a5084be4d130cdd9168f5f498b153eea390872c650b0a543ae798"
+  },
+  "included_results": {
+    "concerns_ranked.csv": "2cbae6e0a8ad8ff3bef04b88b09712b250a310dd200377605721bcc9e661efa3",
+    "data_quality.csv": "13f89ccd0f468110d2713c6363febaea0ab848a4173a276811a336d078dd6b1c",
+    "price_by_area.csv": "c7f153a0179382d9acad3420553d9c271e8d53442307b477cc2ba25a81f0a7f2",
+    "q0_top10_neighbourhoods.csv": "53bb661deb961f81ed77a4ef80a99cfb0ee6afc6d3ec1fb2070d58c7619d3c85",
+    "q1_property_type.csv": "e4e368b746b04a8e3063b5a479ad9fb9b9f47f2d3618bcf4fc38595ed9a1bba3",
+    "q1_room_type.csv": "5da673a671cf6f055e26f9a05646c53f3ebc82113aef9ae402bee24c536e1db0",
+    "q2_accommodates.csv": "f0bd2ef512f427fe5fd5aa0c81d2727787c11435da98e462494dc26f39e40e4d",
+    "q2_accommodates_bins.csv": "01abb6ad1b5ce49c77d361d572440290dc5290c5acc6a77c46c51df17c08fb9b",
+    "q3_host_counts.csv": "c0ba3b631d14cda4da3de1156a858cfa662b68dcfeea7954f4bbf89f1dfbcaef",
+    "q3_host_type_share.csv": "bef6aad6708158b6dbec9d8e9ee9993f5ed48817f453fc8ebbda8ba0f25e6fd9",
+    "q4_term.csv": "ceaa8f9eb8f5c9af993e013f19b2ad77661607bae525a253e5b1fc2678451bd9",
+    "q5_historical_snapshots.csv": "3dd86d4c0c6766f722f7191c9e8a774723f9334ab5f08755a23f8519bbbd3baf",
+    "q5_history_provenance.json": "51c19a6e7a53b9b01c8175a27b03b3f999fc2229282858037a9ca67a114813b8",
+    "q5_matched_prices.csv": "d46674d50aa45d7e55e9041ddc28928ff03a86061d1311abe19f7631ce3ab967",
+    "sentiment_stats.csv": "075cbb9308c2c19f7b74e28b834bb85f51dba1cc2c9f59e6d4652be10c583d09",
+    "topics_lda_terms.csv": "82b439ec15489114936f5aa175d652726939e58c95bdb1ae8e78f58f9cb7a08d",
+    "topics_nmf_shares.csv": "f70f74801b007bcced26d3ce66d6650e7d6b5cd2a6dda8d5a0ff7fa7cf3b5774",
+    "topics_nmf_terms.csv": "9d618dbaf5cbc4f889f22c8b57487bf5bcb97cdd22b59785bd989b3ebeb3f976"
+  },
+  "note": "Published scripts are byte-for-byte copies of appendix A.1/A.2/A.3. Historical Q5 supersedes the original review proxy. Raw records and review-text examples are excluded.",
+  "verification": {
+    "date": "2026-09-30",
+    "all_three_analysis_scripts_rerun": true,
+    "aggregate_result_files_compared": 18,
+    "different_result_files": [],
+    "input_checksums_verified": 5
+  }
+}

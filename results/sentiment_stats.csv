@@ -1,0 +1,15 @@
+,0
+reviews_total,801398.0
+reviews_last_12m,218708.0
+automated_cancellation_posts,0.0
+non_english_or_short_dropped,43031.0
+reviews_analysed,161259.0
+review_positive_%,97.0
+review_neutral_%,0.8
+review_negative_%,2.2
+sentences,533682.0
+negative_sentences,16757.0
+negative_sentence_%,3.14
+reviews_with_negative_sentence_%,7.1
+negative_sentences_without_topic,5581.0
+topic_weight_praise_misread_%,21.3

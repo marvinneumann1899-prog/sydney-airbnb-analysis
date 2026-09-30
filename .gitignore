@@ -1,0 +1,16 @@
+# Local environments and raw source data
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+data/raw/
+*.part
+# Text-level examples and manual validation stay local.
+results/topics_nmf_examples.csv
+results/validation_sample_50.csv
+# Earlier exploratory Q5 output is superseded by historical_analysis.py.
+results/q5_active_listings_proxy.csv
+results/q5_price_by_entry_cohort.csv
+figures/fig3_timeseries_proxy.png
